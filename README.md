@@ -22,8 +22,9 @@ I'm a junior frontend developer with a passion for creating user-friendly websit
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpay-talebzade-shakiba-7105b11b9) 
 
-<img style="width: 40px; height: 40px;" alt="" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" />
 ##  DevCard
+<img style="width: 40px; height: 40px;" alt="" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" />
+
 <a href="https://app.daily.dev/Alpay"><img src="https://api.daily.dev/devcards/0232359f76904ebfac8e1b5ba2a5b63f.png?r=zmh" width="400" alt="Alpay's Dev Card"/></a>
 
 # 💻 Tech Stack:
