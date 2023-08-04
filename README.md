@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-ff
+I'm a junior frontend developer with a passion for creating user-friendly websites. Skilled in HTML, CSS, and JavaScript, I excel at translating design mockups into functional and visually appealing websites. I have experience in vanilla JavaScript and frameworks like React and Vue.js, allowing me to add interactivity and dynamism to web applications.
 
 
 ## 🌐 Socials:
